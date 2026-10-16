@@ -13,6 +13,7 @@ I work in **L1/L2 Technical Support for telecommunications and eSIM platforms**,
 - **[LogSentry](https://github.com/emilianocristeche/logsentry)** — Python CLI that parses Linux `sshd` logs to detect brute-force bursts with a sliding time window, identify username reconnaissance, and flag successful logins after an attack.
 - **[Escalate](https://github.com/emilianocristeche/escalate)** — Support-queue triage and SLA early-warning API (FastAPI, SQLAlchemy, React) that tracks MTTR and compares rule-based classification against LLM fallback.
 - **[AlertFlow](https://github.com/emilianocristeche/alertflow)** — On-call triage CLI and API that converts raw alerts into structured severity ratings and runbooks, with Slack/Discord webhooks.
+- **[PulseCheck](https://github.com/emilianocristeche/pulsecheck)** — HTTP uptime monitor (FastAPI, React) with scheduled checks, latency charts, state-change alerts, and SSRF protection for user-supplied URLs.
 
 ### 🌱 Currently Learning
 
